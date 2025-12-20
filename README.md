@@ -22,23 +22,24 @@ All experiments are conducted on **hourly energy consumption data** enriched wit
 
 ## 📂 Repository Structure
 
-
+```
+multivariate_energy_consumption_forecasting/
+│
 ├── dataa
-|    ├── LD2011_2014.txt
-|    ├── electricity_features_hourly.csv   
-| 
+│    ├── LD2011_2014.txt
+│    ├── electricity_features_hourly.csv   
+│ 
 ├── notebooks
-|    ├── EDA.ipynb
-|    ├── feature_Eng.ipynb
-|    ├── model_sarımax.ipynb
-|    ├── model_tft2.ipynb
-|    ├── electricity_features_hourly.csv
+│    ├── EDA.ipynb
+│    ├── feature_Eng.ipynb
+│    ├── model_sarımax.ipynb
+│    ├── model_tft2.ipynb
+│    ├── electricity_features_hourly.csv
 ├── venv
 ├──.gitignore
 └── README.md
 
-
-
+```
 ---
 
 ## 🔍 Exploratory Data Analysis (EDA)
