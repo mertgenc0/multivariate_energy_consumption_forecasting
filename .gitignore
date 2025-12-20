@@ -3,3 +3,7 @@
 /dataa
 
 /.idea
+/notebooks/model_trf_darts.ipynb
+/notebooks/model_tft_deeplearning.ipynb
+/notebooks/lightning_logs
+/notebooks/.ipynb_checkpoints
